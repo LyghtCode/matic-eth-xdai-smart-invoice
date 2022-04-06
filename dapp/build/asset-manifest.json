@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.22a4214f.chunk.js",
+    "main.js.map": "/static/js/main.22a4214f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a52a419b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a52a419b.js.map",
+    "static/js/2.3348e80b.chunk.js": "/static/js/2.3348e80b.chunk.js",
+    "static/js/2.3348e80b.chunk.js.map": "/static/js/2.3348e80b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.3348e80b.chunk.js.LICENSE.txt": "/static/js/2.3348e80b.chunk.js.LICENSE.txt",
+    "static/media/calendar-red.2413d1e3.svg": "/static/media/calendar-red.2413d1e3.svg",
+    "static/media/calendar.34daa311.svg": "/static/media/calendar.34daa311.svg",
+    "static/media/lex-dao.2a10df8e.png": "/static/media/lex-dao.2a10df8e.png",
+    "static/media/lock.02f0ef76.svg": "/static/media/lock.02f0ef76.svg",
+    "static/media/logo.a880e77e.svg": "/static/media/logo.a880e77e.svg",
+    "static/media/sharingan.af455048.png": "/static/media/sharingan.af455048.png",
+    "static/media/space.033a5db6.png": "/static/media/space.033a5db6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a52a419b.js",
+    "static/js/2.3348e80b.chunk.js",
+    "static/js/main.22a4214f.chunk.js"
+  ]
+}
